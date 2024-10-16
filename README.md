@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CCYJACK222
+- 👋 Hi, I’m @CCYJACK222 (Jack)
 - 👀 I’m interested in coding and playing guitar plus video games.
 - 🌱 I’m currently learning data structures and algorithms. 
 - 💞️ I’m looking to collaborate on projects.
