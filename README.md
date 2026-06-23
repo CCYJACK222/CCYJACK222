@@ -5,7 +5,7 @@ understanding how systems behave under pressure.
 
 Currently:
 - Studying CS + Math
-- Working with React, Expo, and TypeScript
+- Working with ReactNative, Expo, and TypeScript
 - Learning by breaking things and fixing them again
 
 Projects:
